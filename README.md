@@ -1,2 +1,0 @@
-# RoR
-RoR Alpha 
